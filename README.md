@@ -20,6 +20,6 @@ There is no Modeling to showcase for this project
 
 
 
-![](sales_visualisation.png)
+
 
 
