@@ -18,3 +18,8 @@ This is a Power BI project on sales analysis of a store. The project is to analy
 There is no Modeling to showcase for this project
 
 
+
+
+![](sales_visualisation.png)
+
+
